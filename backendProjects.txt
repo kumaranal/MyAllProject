@@ -1,0 +1,46 @@
+
+ALL BACKEND PROJECT:
+
+1.  Express.js  CRUD operation using MongoDB
+    git repo :  https://github.com/kumaranal/crudop
+
+2.  Express.js  CRUD operation using MongoDB along with authentication of API using PASSPORT 
+    git repo  :  https://github.com/kumaranal/backend_Authentication
+
+3.  Express.js  CRUD operation using MongoDB along with use of nodemailer & nodesheduler 
+    git repo  :  https://github.com/kumaranal/birthday_backend
+    work: using nodesheduler we run a function which check the present date & month 
+          is matched with any database's user's birthday.& if it match then send a reminder mail 
+          to user.
+    
+    future Scope: 1. we can shedule mail to a large no of people.
+                  2. broadcast massage like "happy new year"
+
+4.  Express.js  CRUD operation using MongoDB using Typescript 
+    git repo   :  https://github.com/kumaranal/typescript_backend
+
+5.  Express.js  CRUD operation using Postgresql
+    git repo   :  https://github.com/kumaranal/postgress_crudApi
+
+6.  Express.js  CRUD operation using Postgresql also using Sequalize ORM
+    git repo   :  https://github.com/kumaranal/postgress_sequalize_api
+
+7.  Express.js  operation with Socket.io
+    git repo   :  https://github.com/kumaranal/websocket_backend
+    work: using socket.io making an account where we can broadcast massage.
+
+    future Scope: 1. making chat app
+                  2. making broadcast channel
+
+8.  Express.js  making shopping cart backend & also using transaction
+    git repo    :  https://github.com/kumaranal/ecommerce_backend
+    work:  making a primary level ecommerce_backend having atomisity & transaction 
+
+    future Scope: 1.making a full-fledged ecommerce app
+                  2. also making other multi-schema database supported backend 
+
+9.  Express.js  payment-gateway using paytm
+    git repo    :   https://github.com/kumaranal/paytm-integration-nodejs-express
+    work:  payment gateway integration
+
+    future Scope: 1. use that in full-fledged ecommerce app with real production payment URL. 
